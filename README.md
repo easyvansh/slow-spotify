@@ -10,7 +10,11 @@ https://github.com/easyvansh/slow-spotify/assets/91223476/b88b070a-64d2-4427-8d7
 
 
 
+
+
 https://github.com/easyvansh/slow-spotify/assets/91223476/d06eed06-74aa-4bd6-bcd8-d354bb15519b
+
+
 
 
 
@@ -22,11 +26,17 @@ https://github.com/easyvansh/slow-spotify/assets/91223476/734757e7-d118-4cf0-826
 
 
 
+
+
 https://github.com/easyvansh/slow-spotify/assets/91223476/ee904125-f429-4214-99c5-6f6e38f839e8
 
 
 
+
+
 https://github.com/easyvansh/slow-spotify/assets/91223476/ba85186b-b4d4-4cb2-8503-fa39a4e7b97d
+
+
 
 
 
@@ -43,4 +53,4 @@ visit http://localhost:3000
 
 Released under the MIT License. 
 
-Check [LICENSE.md] (https://github.com/easyvansh/slow-spotify/blob/main/LICENSE)) for more info.
+Check [LICENSE.md](https://github.com/easyvansh/slow-spotify/blob/main/LICENSE) for more info.
