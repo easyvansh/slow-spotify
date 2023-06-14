@@ -1,4 +1,4 @@
-# Slow-Spotify 🎺🎸🎻🎤
+# Slow-Spotify 🎤
 
 This is `Spotify-Slow` - a React front end client that communicates with the Spotify API.
 
@@ -22,4 +22,4 @@ visit http://localhost:3000
 
 Released under the MIT License. 
 
-Check [LICENSE.md](https://github.com/easyvansh/slow-spotify/LICENSE) for more info.
+Check [LICENSE.md](https://github.com/easyvansh/slow-spotify/blob/main/LICENSE)) for more info.
