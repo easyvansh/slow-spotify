@@ -1,6 +1,6 @@
 # Slow-Spotify 🎤
 
-This is `Spotify-Slow` - a React front end client that communicates with the Spotify API.
+This is `Slow-Spotify` - a React front end client that communicates with the Spotify API.
 
 
 
